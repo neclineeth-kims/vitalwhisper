@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-02-20T00:31:09+03:00",
+  "overall_status": "degraded",
+  "components": {
+    "gateway": {
+      "status": "stopped",
+      "check_passed": false
+    },
+    "listener": {
+      "status": "available",
+      "check_passed": true,
+      "recent_activity": true
+    },
+    "bp_data": {
+      "latest_reading_no": ""
+    }
+  }
+}

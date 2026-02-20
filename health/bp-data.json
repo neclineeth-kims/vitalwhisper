@@ -1,0 +1,142 @@
+[
+  {
+    "no": 1,
+    "date": "2026-02-15",
+    "time": "09:04",
+    "beats": 63,
+    "high": 123,
+    "low": 87,
+    "notes": "feeling relaxed, good sleep and full recovery this morning",
+    "timestamp": "2026-02-15T09:04:03.835316"
+  },
+  {
+    "no": 2,
+    "date": "2026-02-15",
+    "time": "22:16",
+    "beats": 62,
+    "high": 137,
+    "low": 87,
+    "notes": "evening reading",
+    "timestamp": "2026-02-15T22:16:57.418027"
+  },
+  {
+    "no": 3,
+    "date": "2026-02-16",
+    "time": "08:36",
+    "beats": 65,
+    "high": 127,
+    "low": 83,
+    "notes": "",
+    "timestamp": "2026-02-16T08:36:00.793966"
+  },
+  {
+    "no": 4,
+    "date": "2026-02-17",
+    "time": "09:30",
+    "beats": 56,
+    "high": 127,
+    "low": 83,
+    "notes": "measured before morning amlodipine - good sleep (woke 6am bathroom, then 2.5h more sleep)",
+    "timestamp": "2026-02-17T09:30:10.423769"
+  },
+  {
+    "no": 5,
+    "date": "2026-02-17",
+    "time": "22:52",
+    "beats": 57,
+    "high": 129,
+    "low": 83,
+    "notes": "before meds, feeling fine",
+    "timestamp": "2026-02-17T22:52:14.812833"
+  },
+  {
+    "no": 6,
+    "date": "2026-02-18",
+    "time": "13:07",
+    "beats": 53,
+    "high": 130,
+    "low": 83,
+    "notes": "slept well around 0100 am woke up at 0830 am with one time toilet break around 0430 am",
+    "timestamp": "2026-02-18T13:07:06.133549"
+  },
+  {
+    "no": 7,
+    "date": "2026-02-18",
+    "time": "13:07",
+    "beats": 54,
+    "high": 123,
+    "low": 81,
+    "notes": "30 min after i take the pill",
+    "timestamp": "2026-02-18T13:07:12.334740"
+  },
+  {
+    "no": 8,
+    "date": "2026-02-18",
+    "time": "18:11",
+    "beats": 58,
+    "high": 150,
+    "low": 91,
+    "notes": "via photo OCR",
+    "timestamp": "2026-02-18T18:11:00+03:00"
+  },
+  {
+    "no": 9,
+    "date": "2026-02-18",
+    "time": "21:46",
+    "beats": 61,
+    "high": 128,
+    "low": 83,
+    "notes": "via photo OCR",
+    "timestamp": "2026-02-18T21:46:00+03:00"
+  },
+  {
+    "no": 10,
+    "date": "2026-02-19",
+    "time": "07:54",
+    "beats": 55,
+    "high": 137,
+    "low": 87,
+    "notes": "Values are clearly visible and legible. | via photo OCR | voice: I wake up very tired this morning, but I am not feeling so bad",
+    "timestamp": "2026-02-19T07:54:00+03:00"
+  },
+  {
+    "no": 11,
+    "date": "2026-02-19",
+    "time": "23:41",
+    "beats": 65,
+    "high": 143,
+    "low": 87,
+    "notes": "manual evening BP from 19 Feb | via photo OCR | voice: I feel quite well but my blood pressure is a little high.",
+    "timestamp": "2026-02-19T23:41:00+03:00"
+  },
+  {
+    "no": 12,
+    "date": "2026-02-19",
+    "time": "23:38",
+    "beats": 67,
+    "high": 135,
+    "low": 86,
+    "notes": "evening reading pre-meds | via photo OCR",
+    "timestamp": "2026-02-19T23:38:00+03:00"
+  },
+  {
+    "no": 13,
+    "date": "2026-02-20",
+    "time": "00:31",
+    "beats": 61,
+    "high": 133,
+    "low": 77,
+    "notes": "post-meds | Date and time format appears to be day/month and hour:minute. Readings are clear. | via photo OCR | voice: Feeling great after taking the pills. | voice: this is another device and with two screens",
+    "timestamp": "2026-02-20T00:31:00+03:00"
+  },
+  {
+    "no": 14,
+    "date": "2026-02-20",
+    "time": "00:41",
+    "beats": 60,
+    "high": 120,
+    "low": 71,
+    "notes": "arm cuff at 00:41 | via photo OCR | voice: Bu \u00f6l\u00e7\u00fcm\u00fc sa\u011f kolumdan ald\u0131m.",
+    "timestamp": "2026-02-20T00:41:00+03:00"
+  }
+]
